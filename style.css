@@ -89,7 +89,7 @@ form button:hover {
 }
 
 .fa-trash,
-fa-check{
+.fa-check{
     pointer-events: none;
 }
 
